@@ -1,0 +1,1 @@
+The simplest most basic way to gather an image from a Webcam.  

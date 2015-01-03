@@ -1,0 +1,1 @@
+This is reliant on a thid party library called IPCapture, which allows for the aquisition and display of an MJPEG stream.  

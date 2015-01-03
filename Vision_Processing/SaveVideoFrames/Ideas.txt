@@ -1,0 +1,1 @@
+Save the video frames from the camera for analysis after the match.  These can easily be turned into a video for later, as well.  Processing 2.x has gotten rid of the VideoMaker class, so it's impossible to create a video using stright Processing or Java

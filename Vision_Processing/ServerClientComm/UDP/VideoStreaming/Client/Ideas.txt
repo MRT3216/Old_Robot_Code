@@ -1,0 +1,2 @@
+How to use:
+	On one computer, run the server programme using the client's IPv4 address (go to CMD, type "ipconfig" [without quotes] and find your IPv4) or your localhost IP address (

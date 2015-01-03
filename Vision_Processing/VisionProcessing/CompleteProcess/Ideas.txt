@@ -1,0 +1,1 @@
+This project is the most up-to-date program for locating and tracking rectangles using the Kinect.  It incorporates all of the other methods demonstrated in the VisionProcessing directory

@@ -1,0 +1,1 @@
+If your team finds itself needing to populate some empty space on the Dashboard, these may be valuable things to add in.  Additionally, you could use them for diagnostics when coupled with the text file writing programme.

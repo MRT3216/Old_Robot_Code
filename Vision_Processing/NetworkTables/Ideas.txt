@@ -1,0 +1,1 @@
+NetworkTables are the primary way of communication between the cRIO and driverstation bidirectionally.  Replace the "networktables-desktop.jar" file with the most up-to-date version once it's available.  Syntactical changes may become necessary to support newer versions.  The included version is from the 2012-13 season

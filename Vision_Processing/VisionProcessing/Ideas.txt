@@ -1,0 +1,8 @@
+FOr vision processing using OpenCV, you need to be running 32bit processing and have the OpenCV library instaled by way of Sketch->ImportLibrary->Add Library->[Search for OpenCV].  I havent yet researched the rectangle-finding capabilities presented by the standard processing Image/Video library.  In order to use a Kinect, regardless of 32 or 64 bit, you need to install Simple-OpenNI (the same way you would install OpenCV), OpenNI 2 (for driver support[?]), and the Microsoft Kinect SDK (for primary drivers).  I'll include the list of websites below if I ever decide to come back to tis and modify it.  Sites:
+
+Http://www.1234567.com (OpenCV for Processing)
+Http://www.1234567.com (Simple-OpenNI)
+Http://www.1234567.com (Nite 2)
+Http://www.1234567.com (Kinect SDK)
+
+Also included in the VisionProcessing library is a (presumably outdated) version of all of the libraries and installers required to install the things mentioned above.  They are only recommended for use if the proper compatible files can not be found or if the company has gone out of business and shut down their site.  Please go to their website and try to find the most up-to-date (but still compatible) versions to avoid unnecessary complications. 

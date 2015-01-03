@@ -1,0 +1,1 @@
+This will be the canvas on which your entire dashboard will (should) be condtructed.  By using Processing instead of another programming language, the DriverStation can have all sorts of particle affects and whatnot (literally nothing is off limits)
